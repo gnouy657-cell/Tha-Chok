@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-1105999c-f924-4b35-b5b1-c542e08c8e10.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce c55ec41c-6a5a-4b4c-abae-87101fda0b8b"
+  },
+  "pid": 11228,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1782782866669,
+  "workspaceFolders": [
+    "c:\\Users\\youa\\OneDrive - email.davenport.edu\\Documents\\WeatherProject\\weatherproject\\Github1"
+  ],
+  "isTrusted": true
+}
