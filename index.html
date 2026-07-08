@@ -10,15 +10,15 @@
   <body>
     <div class="weather-app">
       <header>
-        <form class="search-form">
-        <input type="search" placeholder="Enter City" name="city" required class="search-form-input"/>
+        <form id="search-form" class="search-form">
+        <input id="search-form-input" type="search" placeholder="Enter City" name="city" required class="search-form-input"/>
         <input type="submit" value="Search" class="search-form-button"/>
       </form>
       </header>
       <main>
         <div class="current-weather-app">
           <div>
-          <h1 class="city-name-app">
+          <h1 id="city-name-app" class="city-name-app">
             <strong>Tha Chok District</strong>
           </h1>
           <p class="weather-description-app">
@@ -50,6 +50,7 @@
         <a href="https://tha-chok-1.onrender.com" target="_blank">Render</a>.
       </p>
     </div>
+    <script src="index.js"></script>
     </footer>
   </body>
 </html>
