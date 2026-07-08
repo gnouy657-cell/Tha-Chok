@@ -1,5 +1,7 @@
 body {
   background-color: #f9f7fe;
+  font-family:"Yuyu",sans-serif;
+  font-size: 40px;
 }
 
 .weather-app {
